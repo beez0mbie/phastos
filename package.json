@@ -1,13 +1,10 @@
 {
-  "name": "phastos",
+  "name": "eternals",
   "packageManager": "yarn@3.1.1",
   "workspaces": [
-    "phastos/*"
+    "phastos"
   ],
   "devDependencies": {
-    "next": "12.0.4",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
     "typescript": "4.5.2"
   }
 }

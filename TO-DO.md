@@ -2,9 +2,9 @@
 
 ## Infra
 
-- yarn
-- ts
-- esbuild
+- yarn [x]
+- ts [x]
+- next.js [x]
 
 ## Tasks
 
