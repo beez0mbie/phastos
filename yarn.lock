@@ -1987,7 +1987,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next@npm:^12.0.4":
+"next@npm:12.0.4":
   version: 12.0.4
   resolution: "next@npm:12.0.4"
   dependencies:
@@ -2326,10 +2326,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "phastos@workspace:."
   dependencies:
-    next: ^12.0.4
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    typescript: ^4.5.2
+    next: 12.0.4
+    react: 17.0.2
+    react-dom: 17.0.2
+    typescript: 4.5.2
   languageName: unknown
   linkType: soft
 
@@ -2459,7 +2459,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^17.0.2":
+"react-dom@npm:17.0.2":
   version: 17.0.2
   resolution: "react-dom@npm:17.0.2"
   dependencies:
@@ -2486,7 +2486,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^17.0.2":
+"react@npm:17.0.2":
   version: 17.0.2
   resolution: "react@npm:17.0.2"
   dependencies:
@@ -2963,7 +2963,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.5.2":
+"typescript@npm:4.5.2":
   version: 4.5.2
   resolution: "typescript@npm:4.5.2"
   bin:
@@ -2973,7 +2973,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.5.2#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.5.2#~builtin<compat/typescript>":
   version: 4.5.2
   resolution: "typescript@patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=493e53"
   bin:
